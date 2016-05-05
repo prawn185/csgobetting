@@ -1,5 +1,7 @@
 Name still to be decided
 
+Soon to be private repository
+
 # CSGOtbd.com
 
 ##### What is this?
